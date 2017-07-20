@@ -1,0 +1,56 @@
+body{
+	background-image:url(http://www.frozengamesfree.com/wallpapers//Beautiful%20Elsa.jpg);
+}
+
+.col-md-10{
+	background-color: #EAF2F8;
+	height: 700px;
+	text-align: center;
+	font-family: 'Metal Mania', cursive;
+    font-size: 30px;
+    margin-left: 200px;
+}
+
+header{
+
+	text-align: center;
+	font-family: 'Metal Mania', cursive;
+    font-size: 40px;
+    margin-top: 10px;
+    color: #28021E;
+
+}
+
+
+
+.question{
+	font-size: 25px;
+   margin-top: 10px;
+   font-family: 'Bad Script', cursive;
+
+}
+
+.answers{
+	font-size: 18px;
+}
+
+#timer{
+	font-size: 18px;
+}
+
+#start{
+
+	 margin-top: 200px;
+	 background-color: #324E1F;
+	 color: #28021E;
+}
+
+#one{
+	color: #28021E;
+}
+
+#get{
+	background-color: #324E1F;
+	color: #28021E;
+	margin-top: 20px;
+}
